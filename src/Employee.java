@@ -1,12 +1,19 @@
 public class Employee {
     int baseSalary;
     int extraHours;
+    private static int numberOfEmployees;
+
     public  Employee(int baseSalary){
       this(baseSalary, 0);
     }
     public  Employee(int baseSalary, int extraHours){
         setBaseSalary(baseSalary);
         setExtraHours(extraHours);
+        numberOfEmployees++;
+    }
+
+    public static void printNumberOfEmployees(){
+        System.out.println(numberOfEmployees);
     }
 
    private int getBaseSalary(){

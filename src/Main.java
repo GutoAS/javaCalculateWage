@@ -9,6 +9,7 @@ public class Main {
         System.out.println(wage);
         System.out.println(wage2);
 
+        Employee.printNumberOfEmployees();
     }
 
 }
