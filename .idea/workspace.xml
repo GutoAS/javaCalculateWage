@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66ca638c-74cb-436b-979a-3033c2cc0e93" name="Changes" comment="emplyoee wage">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="66ca638c-74cb-436b-979a-3033c2cc0e93" name="Changes" comment="numberOfEmployees" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671792869749</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="numberOfEmployees">
+      <created>1671793381077</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671793381077</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,7 +81,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="emplyoee wage" />
-    <option name="LAST_COMMIT_MESSAGE" value="emplyoee wage" />
+    <MESSAGE value="numberOfEmployees" />
+    <option name="LAST_COMMIT_MESSAGE" value="numberOfEmployees" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
